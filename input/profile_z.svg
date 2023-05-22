@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Norican');</style>
+    </defs>
+    
+    <rect x="0" y="0" width="100" height="100" fill="rgb(255, 120, 0)"/>
+    <text x="20" y="78" stroke="none" fill="white" stroke-width="1" font-size="80px" style="font-family:'Norican'">Z</text>
+</svg>
